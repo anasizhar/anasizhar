@@ -14,7 +14,7 @@
 
 ---
 
-## 💻 Technologies I Work With
+## 💻 Things that I do for living:
 
 - Application Security
 - DevSecOps
@@ -46,8 +46,6 @@ class WhoAmI:
     
     mindset = "Think like an attacker. Defend like an engineer."
     
-    def life_goal():
-        return "Build secure systems that scale."
 
     def fun_fact():
-        return "Debugging security alerts > watching Netflix"
+        return "Coffee and fresh air could do things that yelling at your laptop screen won't do."
