@@ -7,11 +7,10 @@
 
 ## 🛡️ About Me
 
-- Information Security Analyst based in Germany  
-- Experienced with AWS Security  
-- SIEM enthusiast (log analysis, detection engineering, threat hunting)  
-- Pentester mindset — always thinking like an attacker  
-- Interested in AppSec, Cloud Security & Detection Engineering   
+- From Pakistan, currently in Germnay
+- Interested in Application & Cloud Security 
+- Defender by day, hacker by night
+   
 
 ---
 
@@ -37,14 +36,13 @@
 ```python
 class WhoAmI:
     user = "Anas"
-    role = "Information Security Analyst"
+    role = "Lead Security Engineer"
     location = "Germany"
     
     current_focus = [
-        "Detection Engineering",
-        "Cloud Security Hardening",
-        "GitHub Security Automation",
-        "AI for Vulnerability Validation"
+        "Application Security Automation (SCA, SAST, DAST etc.)",
+        "Ingesting AI based workflow in security engineering",
+        "Improving threat detection to detect anamolies"
     ]
     
     mindset = "Think like an attacker. Defend like an engineer."
