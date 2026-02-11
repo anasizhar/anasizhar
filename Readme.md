@@ -7,7 +7,7 @@
 
 ## 🛡️ About Me
 
-- From Pakistan, currently in Germnay
+- From Pakistan 🇵🇰, currently living in Germany
 - Interested in Application & Cloud Security 
 - Defender by day, hacker by night
    
