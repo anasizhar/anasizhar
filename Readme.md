@@ -16,11 +16,10 @@
 
 ## 💻 Technologies I Work With
 
-- Cloud Security (AWS)
-- SIEM & Log Analysis
-- Threat Detection & Incident Response
 - Application Security
 - DevSecOps
+- Cloud Security (AWS)
+- Threat Detection & Incident Response
 - Vulnerability Management
 
 ---
