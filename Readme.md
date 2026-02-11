@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anasizhar" alt="profile views" /> </p>
 
-<div align="right">
-"There are only two types of companies: those that have been hacked, and those that will be." – Robert Mueller
-</div>
-
 ---
 
 ## 🛡️ About Me
