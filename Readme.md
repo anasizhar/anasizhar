@@ -48,4 +48,4 @@ class WhoAmI:
     
 
     def fun_fact():
-        return "Coffee and fresh air could do things that yelling at your laptop screen won't do."
+        return "Sometimes coffee and fresh air could do things that yelling at your laptop screen for hours won't do."
