@@ -2,7 +2,7 @@
 
 <h1>Welcome to my corner of the Cyber World 🔐</h1>
 
-<img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="300px" align="right"/>
+<img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="200px" align="right"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yourgithubusername" alt="profile views" /> </p>
 
